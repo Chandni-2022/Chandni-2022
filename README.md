@@ -1,29 +1,80 @@
-<h1 align="center">Hi 👋, I'm Chandni Rao😊</h1>
-<h3 align="center">Creative Crafting Innovative Solutions in Web Development as a learner</h3>
+<h1 align="center">Hi there 👋, I'm Chandni Rao 😊</h1>
+<h3 align="center">Creative Web Developer Crafting Innovative Solutions 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandni-2022&label=Profile%20views&color=0e75b6&style=flat" alt="chandni-2022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandni-2022" alt="chandni-2022" /></a> </p>
-
-- 🌱 I’m currently learning **MangoDB**
-
-- ⚡ Fun fact **I am lazy but creative**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandni rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandni rao" height="30" width="40" /></a>
-<a href="https://instagram.com/chandnis390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandnis390" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raochandni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raochandni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rao chandni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rao chandni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user9161kv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9161kv" height="30" width="40" /></a>
-<a href="https://discord.gg/chandni_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chandni_rao" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandni-2022&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/chandni-2022?tab=followers"><img src="https://img.shields.io/github/followers/chandni-2022?label=Followers&style=social" alt="GitHub Followers" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/chandni-2022"><img src="https://github-profile-trophy.vercel.app/?username=chandni-2022&theme=radical&margin-w=15&no-frame=true" alt="chandni-2022 trophies" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandni-2022&show_icons=true&locale=en&layout=compact" alt="chandni-2022" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandni-2022&show_icons=true&locale=en" alt="chandni-2022" /></p>
+- 🌱 I’m currently learning **MongoDB**  
+- ⚡ Fun fact: **I may be lazy, but creativity strikes me at all the right moments!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandni-2022&" alt="chandni-2022" /></p>
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/chandni-rao" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Chandni%20Rao-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/chandnis390" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.codechef.com/users/raochandni" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef" />
+  </a>
+  <a href="https://www.hackerrank.com/rao_chandni" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-%23329E5B.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
+  </a>
+  <a href="https://www.leetcode.com/user9161kv" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://angular.io" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandni-2022&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandni-2022&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandni-2022&" alt="GitHub Streak" />
+</p>
