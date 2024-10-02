@@ -14,8 +14,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **MongoDB** and honing my skills in **full-stack development**.
-- 💻 I love building projects that solve real-world problems.
+- 🌱 I’m currently learning everything 😊.
+- 🪻2024 Goal: To get an internship and contribute in open Source.
+- 💻 I currently building projects that solve real-world problems (sector = our college).
 - ⚡ Fun fact: **I’m creatively lazy!** 😄
 
 ---
