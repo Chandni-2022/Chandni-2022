@@ -72,15 +72,15 @@
 
 ### 🌈 My Projects
 - **Game Studio Website** (1st Year Project | Jan 2022 - Feb 2022)  
-  A web-based platform featuring a collection of small games (Project Link).  
+  A web-based platform featuring a collection of small games .  
   Developed a web platform that includes games like Snake and 2048. Enhanced web development skills and gained insights into programming languages through this project.
 
 - **Notification Service with Email Retrying Logic** (Aug 2024 - Sep 2024)  
-  A reliable email notification system developed using Node.js and Nodemailer (Project Link).  
+  A reliable email notification system developed using Node.js and Nodemailer .  
   Implemented robust retry logic in the email notification system, switching to a backup email service after three consecutive failures to ensure reliable communication and enhanced user experience.
 
 - **PDF to Quiz Generator** (Personal Project | Oct 2023 - Nov 2023)  
-  A tool developed to convert PDF content into interactive quizzes (Project Link).  
+  A tool developed to convert PDF content into interactive quizzes .  
   Automated quiz creation from PDFs to improve learning efficiency and make educational content more accessible on mobile devices.
 
 - **Additional Projects**: CGPA Calculator, Matrix Calculator, Jarvis Voice Assistant, My Portfolio, E-commerce Site, etc.
@@ -94,7 +94,7 @@
 - **Team Leader, Smart India Hackathon (SIH)**  
   Led a team on two projects:  
   1. **Women Safety Analytics**: Developed innovative solutions for enhancing women’s safety.  
-  2. **Indian Version of Nagish App**: Worked on features tailored for Indian users, improving accessibility and usability (PPT Link).
+  2. **Indian Version of Nagish App**: Worked on features tailored for Indian users, improving accessibility and usability .
 
 ---
 
