@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning everything 😊.
-- 🪻2024 Goal: To get an internship and contribute in open Source.
-- 💻 I currently building projects that solve real-world problems (sector = our college).
+- 🪻 2024 Goal: To get an internship and contribute to open source.
+- 💻 I'm building projects that solve real-world problems (sector = our college).
 - ⚡ Fun fact: **I’m creatively lazy!** 😄
 
 ---
@@ -70,12 +70,33 @@
 
 ---
 
-### 🌈 My Contribution
-- **Open Source**: I actively contribute to projects and love collaborating with others to create something amazing.
-- **Projects**: I am currently working on various projects that incorporate the technologies I am learning and love, including web applications that tackle social issues.
+### 🌈 My Projects
+- **Game Studio Website** (1st Year Project | Jan 2022 - Feb 2022)  
+  A web-based platform featuring a collection of small games (Project Link).  
+  Developed a web platform that includes games like Snake and 2048. Enhanced web development skills and gained insights into programming languages through this project.
+
+- **Notification Service with Email Retrying Logic** (Aug 2024 - Sep 2024)  
+  A reliable email notification system developed using Node.js and Nodemailer (Project Link).  
+  Implemented robust retry logic in the email notification system, switching to a backup email service after three consecutive failures to ensure reliable communication and enhanced user experience.
+
+- **PDF to Quiz Generator** (Personal Project | Oct 2023 - Nov 2023)  
+  A tool developed to convert PDF content into interactive quizzes (Project Link).  
+  Automated quiz creation from PDFs to improve learning efficiency and make educational content more accessible on mobile devices.
+
+- **Additional Projects**: CGPA Calculator, Matrix Calculator, Jarvis Voice Assistant, My Portfolio, E-commerce Site, etc.
+
+---
+
+### 🌟 Extra-Curricular Activities
+- **Participant, GirlScript Summer of Code (GSSOC)**  
+  Contributed to various open-source projects, enhancing skills in collaborative coding, engaging in code reviews, issue tracking, and feature development to improve project functionalities (Click it).
+
+- **Team Leader, Smart India Hackathon (SIH)**  
+  Led a team on two projects:  
+  1. **Women Safety Analytics**: Developed innovative solutions for enhancing women’s safety.  
+  2. **Indian Version of Nagish App**: Worked on features tailored for Indian users, improving accessibility and usability (PPT Link).
 
 ---
 
 ### ✨ Let's Build Something Great Together!
 Feel free to reach out if you want to collaborate or just chat about tech! 🌟
-
