@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Chandni Rao! 👋</h1>
-<h3 align="center">🌟 Aspiring Full-Stack Developer | Tech Enthusiast | Problem Solver 🌟</h3>
+<h3 align="center">🌟 Aspiring | Learner | Full-Stack Developer | Freelancer | UI/UX Designer | Tech Enthusiast | Problem Solver 🌟</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,10 +14,11 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning everything 😊.
-- 🪻 2024 Goal: To get an internship and contribute to open source.
-- 💻 I'm building projects that solve real-world problems (sector = our college).
-- ⚡ Fun fact: **I’m creatively lazy!** 😄
+- 👩‍💻 B.Tech CSE Student | 3rd Year @ Sasi Institute of Technology
+- 🌱 Currently exploring: Full-Stack Development & Cloud Services
+- 🎯 **2025 Goal**:  Build more exiting projects, keep learning, and explore new tech
+- 🛠️ Passionate about solving real-world problems with scalable tech
+- ⚡ Fun Fact: **I'm creatively lazy!** 😄
 
 ---
 
@@ -47,56 +48,60 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandni-2022&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandni-2022&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌈 My Projects
-- **Game Studio Website** (1st Year Project | Jan 2022 - Feb 2022)  
-  A web-based platform featuring a collection of small games .  
-  Developed a web platform that includes games like Snake and 2048. Enhanced web development skills and gained insights into programming languages through this project.
+- **🎮 Game Studio Website**  
+  Designed a mini-game hub with Snake, 2048, etc. First exposure to frontend development.
 
-- **Notification Service with Email Retrying Logic** (Aug 2024 - Sep 2024)  
-  A reliable email notification system developed using Node.js and Nodemailer .  
-  Implemented robust retry logic in the email notification system, switching to a backup email service after three consecutive failures to ensure reliable communication and enhanced user experience.
+- **📧 Notification Service with Email Retry Logic**  
+  Node.js + Nodemailer app that switches to backup email after 3 failed attempts.
 
-- **PDF to Quiz Generator** (Personal Project | Oct 2023 - Nov 2023)  
-  A tool developed to convert PDF content into interactive quizzes .  
-  Automated quiz creation from PDFs to improve learning efficiency and make educational content more accessible on mobile devices.
+- **🧠 PDF to Quiz Generator**  
+  Converts PDFs into quiz format for better learning & retention.
 
-- **Additional Projects**: CGPA Calculator, Matrix Calculator, Jarvis Voice Assistant, My Portfolio, E-commerce Site, etc.
+- **🌐 Web Accessible Extension**  
+  A Chrome extension that give hands free web browsing with using voice camands
 
----
+- **📢 Public Service Complaint System**  
+  Built for citizens to raise complaints to local bodies via an intuitive online portal.
 
-### 🌟 Extra-Curricular Activities
-- **Participant, GirlScript Summer of Code (GSSOC)**  
-  Contributed to various open-source projects, enhancing skills in collaborative coding, engaging in code reviews, issue tracking, and feature development to improve project functionalities (Click it).
-
-- **Team Leader, Smart India Hackathon (SIH)**  
-  Led a team on two projects:  
-  1. **Women Safety Analytics**: Developed innovative solutions for enhancing women’s safety.  
-  2. **Indian Version of Nagish App**: Worked on features tailored for Indian users, improving accessibility and usability .
+- **🧮 Other Projects**: CGPA Calculator, Matrix Solver, Voice Assistant (Jarvis), Portfolio, E-Commerce Website
 
 ---
 
-### ✨ Let's Build Something Great Together!
-Feel free to reach out if you want to collaborate or just chat about tech! 🌟
+### 🏆 Achievements & Hackathons
+- **🏁 Finalist, Prayatna Hackathon (Indore, MP)**  
+  Built a full-stack enterprise-grade solution focused on smart utility management.
+
+- **🎉 MSME Idea Proposal Selected**  
+  Developed a concept for the **Indian version of Nagish App**, aiding communication for speech & hearing-impaired users.
+
+- **👩‍💻 Team Leader, Smart India Hackathon (SIH)**  
+  - **Women Safety Analytics**: AI-based threat detection from live video feeds  
+  - **Indian Nagish App**: Assistive solution proposal to enhance digital communication
+
+- **🌱 Contributor, GirlScript Summer of Code (GSSoC)**  
+  Contributed to open-source projects—bug fixes, enhancements, and new features.
+
+---
+
+### ✨ Let’s Build Something Awesome Together!
+Whether it’s a collaboration, an internship opportunity, or just tech talk—  
+Let’s **code, grow, and innovate** together! 🚀
+
+---
+
